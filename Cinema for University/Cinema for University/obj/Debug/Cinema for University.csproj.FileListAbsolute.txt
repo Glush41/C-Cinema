@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\Cinema for University\Cinema for University\bin\Debug\Cinema for University.exe.config
+C:\Users\user\source\repos\Cinema for University\Cinema for University\bin\Debug\Cinema for University.exe
+C:\Users\user\source\repos\Cinema for University\Cinema for University\bin\Debug\Cinema for University.pdb
+C:\Users\user\source\repos\Cinema for University\Cinema for University\obj\Debug\Cinema for University.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Cinema for University\Cinema for University\obj\Debug\Cinema_for_University.LoginForm.resources
+C:\Users\user\source\repos\Cinema for University\Cinema for University\obj\Debug\Cinema_for_University.Properties.Resources.resources
+C:\Users\user\source\repos\Cinema for University\Cinema for University\obj\Debug\Cinema for University.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Cinema for University\Cinema for University\obj\Debug\Cinema for University.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Cinema for University\Cinema for University\obj\Debug\Cinema for University.exe
+C:\Users\user\source\repos\Cinema for University\Cinema for University\obj\Debug\Cinema for University.pdb
+C:\Users\user\source\repos\Cinema for University\Cinema for University\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\Cinema for University\Cinema for University\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\Cinema for University\Cinema for University\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\Cinema for University\Cinema for University\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\Cinema for University\Cinema for University\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\Cinema for University\Cinema for University\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\Cinema for University\Cinema for University\obj\Debug\Cinema for University.csproj.CopyComplete
+C:\Users\user\source\repos\Cinema for University\Cinema for University\obj\Debug\Cinema_for_University.RegisterForm.resources
+C:\Users\user\source\repos\Cinema for University\Cinema for University\obj\Debug\Cinema_for_University.MainForm.resources
+C:\Users\user\source\repos\Cinema for University\Cinema for University\obj\Debug\Cinema_for_University.AdminForm.resources
